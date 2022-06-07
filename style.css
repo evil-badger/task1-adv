@@ -1,0 +1,10 @@
+.container{
+    margin: auto;
+    width: 1000px;
+}
+
+.header{
+    margin-top: 200px;
+    display: block;
+}
+
